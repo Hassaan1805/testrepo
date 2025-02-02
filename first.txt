@@ -6,4 +6,4 @@ I mean learning how to do stuff in github
 i did some changes to the file 
 lets do something else
 like adding a new line in my file
-just added something in the new branch 
+adding something to the file and now i am going to push it
