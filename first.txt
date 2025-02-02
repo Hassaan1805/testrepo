@@ -3,3 +3,4 @@ something in it
 because its my first time using
 GitHub
 I mean learning how to do stuff in github
+i did some changes to the file 
